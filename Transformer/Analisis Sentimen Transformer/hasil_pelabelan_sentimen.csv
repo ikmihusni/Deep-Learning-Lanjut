@@ -1,0 +1,401 @@
+text,predicted_label
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 0),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 1),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 2),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 3),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 4),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 5),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 6)",Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 7),Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 8),Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 9),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 10),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 11)",Negatif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 12)",Negatif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 13)",Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 14),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 15),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 16),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 17),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 18),Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 19),Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 20),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 21),Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 22)",Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 23)",Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 24)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 25)",Negatif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 26),Negatif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 27),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 28)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 29),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 30),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 31),Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 32),Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 33),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 34)",Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 35)",Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 36),Negatif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 37),Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 38),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 39)",Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 40),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 41)",Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 42),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 43),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 44)",Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 45),Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 46),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 47),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 48)",Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 49),Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 50)",Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 51),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 52),Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 53)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 54),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 55),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 56),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 57)",Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 58),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 59),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 60),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 61),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 62)",Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 63),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 64),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 65)",Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 66)",Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 67)",Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 68),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 69)",Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 70),Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 71)",Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 72),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 73)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 74)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 75),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 76),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 77),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 78),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 79),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 80),Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 81),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 82),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 83)",Negatif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 84),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 85)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 86)",Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 87)",Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 88),Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 89),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 90),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 91),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 92),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 93)",Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 94)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 95)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 96)",Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 97)",Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 98)",Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 99)",Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 100)",Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 101),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 102)",Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 103)",Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 104)",Negatif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 105),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 106),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 107),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 108),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 109),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 110),Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 111)",Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 112),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 113),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 114)",Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 115),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 116),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 117),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 118),Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 119),Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 120),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 121),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 122)",Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 123),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 124),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 125),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 126)",Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 127)",Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 128)",Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 129),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 130)",Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 131)",Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 132),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 133),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 134),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 135),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 136),Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 137),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 138)",Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 139),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 140)",Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 141),Netral
+Barang sampai sesuai dengan deskripsi produk. (Variasi 142),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 143),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 144),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 145),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 146),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 147)",Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 148)",Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 149)",Negatif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 150)",Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 151),Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 152),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 153)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 154),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 155)",Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 156),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 157),Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 158),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 159)",Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 160),Negatif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 161),Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 162),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 163),Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 164),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 165),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 166),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 167)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 168),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 169)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 170),Negatif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 171),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 172),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 173),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 174)",Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 175),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 176),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 177),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 178)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 179),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 180),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 181)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 182),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 183),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 184)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 185),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 186),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 187),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 188)",Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 189),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 190)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 191),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 192),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 193)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 194),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 195)",Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 196)",Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 197),Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 198),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 199),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 200),Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 201)",Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 202)",Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 203),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 204),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 205)",Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 206)",Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 207)",Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 208)",Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 209),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 210)",Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 211),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 212),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 213),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 214),Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 215)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 216),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 217)",Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 218),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 219),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 220),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 221),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 222),Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 223),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 224),Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 225),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 226),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 227),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 228),Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 229)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 230)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 231),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 232),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 233),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 234)",Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 235),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 236),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 237)",Positif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 238),Negatif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 239),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 240),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 241),Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 242)",Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 243),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 244)",Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 245)",Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 246),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 247)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 248),Netral
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 249),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 250),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 251)",Negatif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 252),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 253)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 254),Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 255)",Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 256),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 257),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 258),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 259),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 260),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 261),Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 262),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 263),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 264),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 265),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 266),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 267)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 268),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 269),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 270),Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 271)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 272),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 273),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 274),Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 275)",Negatif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 276),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 277),Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 278)",Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 279)",Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 280)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 281),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 282),Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 283),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 284)",Negatif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 285)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 286)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 287)",Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 288),Negatif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 289)",Positif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 290),Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 291),Netral
+Fungsi produk berjalan normal seperti biasa. (Variasi 292),Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 293)",Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 294)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 295),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 296)",Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 297),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 298)",Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 299)",Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 300),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 301),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 302)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 303),Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 304),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 305)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 306)",Negatif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 307)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 308),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 309)",Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 310),Positif
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 311)",Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 312),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 313),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 314),Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 315)",Negatif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 316),Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 317),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 318),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 319),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 320),Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 321),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 322),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 323)",Negatif
+Paket sudah diterima dengan kondisi standar. (Variasi 324),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 325),Positif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 326),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 327),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 328),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 329),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 330),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 331),Negatif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 332),Netral
+Barang sampai sesuai dengan deskripsi produk. (Variasi 333),Netral
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 334),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 335),Positif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 336)",Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 337),Negatif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 338),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 339),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 340),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 341),Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 342),Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 343),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 344)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 345)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 346)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 347)",Negatif
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 348),Positif
+Paket sudah diterima dengan kondisi standar. (Variasi 349),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 350)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 351)",Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 352)",Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 353)",Positif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 354)",Negatif
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 355)",Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 356)",Positif
+Produk ini sangat luar biasa dan membantu saya. (Variasi 357),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 358),Netral
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 359)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 360),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 361),Positif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 362),Positif
+Barang sampai sesuai dengan deskripsi produk. (Variasi 363),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 364),Netral
+Barang sampai sesuai dengan deskripsi produk. (Variasi 365),Netral
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 366),Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 367),Netral
+Saya sangat senang dengan pelayanan yang diberikan. (Variasi 368),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 369)",Negatif
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 370)",Negatif
+Pelayanan buruk dan respon admin sangat lambat. (Variasi 371),Negatif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 372),Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 373)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 374),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 375),Netral
+Produk ini sangat luar biasa dan membantu saya. (Variasi 376),Positif
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 377)",Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 378),Netral
+"Ukuran produk sedang, tidak terlalu besar atau kecil. (Variasi 379)",Netral
+Paket sudah diterima dengan kondisi standar. (Variasi 380),Netral
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 381),Netral
+"Barang rusak saat sampai, saya sangat kecewa. (Variasi 382)",Negatif
+Harganya cukup kompetitif dibandingkan toko lain. (Variasi 383),Netral
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 384),Negatif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 385),Positif
+Pengalaman belanja yang sangat memuaskan di sini. (Variasi 386),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 387),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 388)",Positif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 389)",Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 390),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 391),Netral
+"Kualitas barangnya jempolan, sangat direkomendasikan. (Variasi 392)",Positif
+Kualitas tidak sesuai dengan harga yang dibayar. (Variasi 393),Negatif
+Fungsi produk berjalan normal seperti biasa. (Variasi 394),Netral
+"Pengiriman sangat lama, hampir dua minggu. (Variasi 395)",Negatif
+"Saya menyesal membeli produk ini, tidak berguna. (Variasi 396)",Negatif
+Pengiriman cepat dan kurirnya sangat ramah. (Variasi 397),Positif
+Fungsi produk berjalan normal seperti biasa. (Variasi 398),Netral
+Barang sampai sesuai dengan deskripsi produk. (Variasi 399),Netral
